@@ -17,16 +17,16 @@
 
   <div class="card">
   <div class="column">
-  <p>-I have been learning software development for about a year now (2022),
-looking to expand my knowledge and build a lot of cool stuff with the community! </p>
+  -I have been learning software development for about a year now (2022),
+looking to expand my knowledge and build a lot of cool stuff with the community! 
   </div>
   </div>
 
 <div class="card-hader"><h2 align="center">🦾Skils🦾</h2></div>
 <div class="card">
   <div class="column">
-  <p> -I am most comfortable working with c# as it was the first programing language I learned and built most projects in, ranging from web apps with the dot net framework to games with the unity game engine,but i can also hold my own when working with javascript or python.<br/><br/>
-I also have some experience working with CSS and HTML as I build all of the UI for my websites myself.<br/><br/>I'm quick to pick up new teqnolagis and always want to learn more!</p>
+   -I am most comfortable working with c# as it was the first programing language I learned and built most projects in, ranging from web apps with the dot net framework to games with the unity game engine,but i can also hold my own when working with javascript or python.<br/><br/>
+I also have some experience working with CSS and HTML as I build all of the UI for my websites myself.<br/><br/>I'm quick to pick up new teqnolagis and always want to learn more!
   </div>
   <h3 align="center">languages</h3>
  <div class="row">
@@ -53,7 +53,7 @@ I also have some experience working with CSS and HTML as I build all of the UI f
 
   <div class="card">
   <div class="column">
-  <p>-My main goal with my git hub account is to contribute as much as possible to open source software and maybe learn a thing or two along the way</p>
+  -My main goal with my git hub account is to contribute as much as possible to open source software and maybe learn a thing or two along the way
   </div>
   </div>
 </div>
