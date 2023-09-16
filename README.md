@@ -6,7 +6,7 @@
 <br/>
 
 ## 🔥about🔥
-> I have been learning software development for about a year now (2022),
+> I am learning software development,
 looking to expand my knowledge and build a lot of cool stuff with the github comunity!
 
 <br/>
