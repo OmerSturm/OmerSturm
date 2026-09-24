@@ -1,25 +1,22 @@
 <div align="center">
 
-<h1> Hi,I am omer👋 </h1>
+# ⚡ ASSAF STURM
 
+### `AI • CYBER • AUTOMATION • HOMELAB`
 
-<br/>
+<br>
 
-## 🔥about🔥
-> I am learning software development,
-looking to expand my knowledge and build a lot of cool stuff with the github comunity!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Exploring+AI+Agents;Automating+everything;Learning+by+building." alt="Typing Animation">
 
-<br/>
+<br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=assafsturm&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph">
 
+<br>
 
-
-
-<br/>
-
-## 🎯goal🎯
-> My main goal is to contribute as much as possible to open source software and maybe learn a thing or two along the way
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmerSturm&show_icons=true&theme=dark)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=footer" width="100%">
 
 </div>
+
+
+
